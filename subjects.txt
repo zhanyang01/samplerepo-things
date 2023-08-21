@@ -2,4 +2,3 @@ English
 Chinese
 Science
 Computer Science
-Ethics
