@@ -2,3 +2,4 @@ English
 Chinese
 Science
 Computer Science
+Math
