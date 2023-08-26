@@ -3,3 +3,5 @@ Chinese
 Science
 Computer Science
 Math
+Geography
+History
