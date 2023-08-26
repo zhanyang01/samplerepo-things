@@ -6,3 +6,4 @@ Math
 Geography
 History
 Literature
+Philosophy
